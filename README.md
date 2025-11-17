@@ -1,6 +1,6 @@
 # Resume_screening_tool
 Python tool to rank resumes based on similarity to a job description using NLP and TF-IDF
-# Description
+## Description
 
 A Python-based tool to automatically screen and rank resumes based on their similarity to a job description. Useful for HR professionals, recruiters, or anyone who wants to filter candidates efficiently.
 
